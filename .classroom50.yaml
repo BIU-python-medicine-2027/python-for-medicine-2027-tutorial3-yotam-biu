@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "python-for-medicine-2027"
+assignment: "tutorial3"
+owner:
+  username: "yotam-biu"
+  id: 186911279
+  accepted_at: "2026-10-24T17:46:51Z"
+source:
+  owner: "BIU-python-medicine-2027"
+  owner_id: 327846072
+  repo: "tutorial3"
+  branch: "main"
